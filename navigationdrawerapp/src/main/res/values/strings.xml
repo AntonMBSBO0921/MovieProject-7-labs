@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Фитнес центр</string>
+    <string name="navigation_drawer_open">Открыть меню</string>
+    <string name="navigation_drawer_close">Закрыть меню</string>
+    <string name="nav_header_title">FitnessPro</string>
+    <string name="nav_header_subtitle">Ваш путь к здоровью</string>
+    <string name="nav_header_desc">Логотип</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_schedule">Расписание</string>
+    <string name="menu_trainers">Тренеры</string>
+    <string name="menu_profile">Личный кабинет</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
